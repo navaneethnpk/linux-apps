@@ -1,1 +1,1 @@
-# linux-apps
+# Linux Powerhouse: Essential Tools and Utilities
